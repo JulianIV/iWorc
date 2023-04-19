@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dj26DAlSAWMscCmtybQqLV0QAbieh14fE+sZiciepctJipe/bUI8ZxfYdEHYzx38WCKDlwBz+eRUBR41ZK58aw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\julia\\source\\repos\\IWorc\\IWorc\\IWorc.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net7.0-window"
+    }
+  ]
+}
