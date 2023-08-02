@@ -10,7 +10,7 @@ internal class Program
     const int delay = 500;
     const int nChars = 256;
     static List<TimeRegistration> registrations = new();
-    static TimeRegistration currentRegistration;
+    static TimeRegistration? currentRegistration;
 
     [DllImport("user32.dll")]
     static extern IntPtr GetForegroundWindow();
